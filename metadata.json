@@ -1,0 +1,6 @@
+{
+  "name": "IACO Route Lab — Smart Waste Collection Optimizer",
+  "description": "Interactive simulation and benchmark laboratory for priority-aware municipal smart waste collection route optimization using Improved Ant Colony Optimization (IACO).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
